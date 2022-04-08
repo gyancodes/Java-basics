@@ -2,6 +2,8 @@ package com.company;
 
 import java.util.Scanner;
 
+
+//Auther: Gyan Prakash Tiwari
 class Main {
     public static void main(String[] args) {
 
