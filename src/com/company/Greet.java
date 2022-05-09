@@ -7,7 +7,7 @@ public class Greet {
         System.out.print("Enter Your Name: ");
         Scanner in = new Scanner(System.in);
         String name = in.next();
-        String message ="Good Morning" + name + " It's Monday Today";
+        String message ="Good Morning " + name + " It's Monday Today";
         System.out.println(message);
 
     }
